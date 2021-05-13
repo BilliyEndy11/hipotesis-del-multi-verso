@@ -1,0 +1,38 @@
+html{
+		background-color: #5AE714;
+}
+h1{
+   font-size: 55px;
+   font-family: arial;
+   text-align: center;
+}
+h3{
+	font-size: 25px;
+	font-family: arial;
+    text-align: center;
+}
+#multi{
+	float: left;
+}
+#uni{
+    margin-left:500px;
+    margin-right: 50px;
+ }
+section {
+margin-left:28px;
+margin-right: 28px;
+}
+aside {
+background-color:#1451E7;
+}
+#ass{
+	font-size: 19px;
+	font-family: verdana;
+    text-align: center;
+}
+#si{
+	font-size: 15px;
+	font-family: arial;
+    text-align: center;
+}
+}
